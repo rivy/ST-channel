@@ -3,12 +3,9 @@
     "packages": [
         {
             "name": "MY Tortoise",
-            "description": "Keyboard shortcuts and menu entries to execute TortoiseSVN, TortoiseHg and TortoiseGit commands",
-            "author": "Will Bond (wbond)",
-            "homepage": "http://wbond.net/sublime_packages/tortoise",
-            "last_modified": "2011-11-05 23:08:00",
+            "description": "Keyboard shortcuts and menu entries to...",
             "platforms": {
-                "windows": [
+                "*": [
                     {
                         "version": "1.2.1",
                         "url": "http://sublime.wbond.net/Tortoise.sublime-package"
