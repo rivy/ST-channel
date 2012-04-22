@@ -2,13 +2,13 @@
     "schema_version": "1.1",
     "packages": [
         {
-            "name": "MY Tortoise",
+            "name": "MY Emacs-like Modelines (fork: rivy)",
             "description": "Keyboard shortcuts and menu entries to...",
             "platforms": {
                 "*": [
                     {
                         "version": "1.2.1",
-                        "url": "http://sublime.wbond.net/Tortoise.sublime-package"
+                        "url": "http://nodeload.github.com/rivy/ST2EmacsModelines/zipball/master"
                     }
                 ]
             }
