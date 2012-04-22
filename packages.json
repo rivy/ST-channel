@@ -3,12 +3,12 @@
     "packages": [
         {
             "name": "Emacs-like Modelines (fork: rivy)",
-            "description": "DESC - Emacs-like Modelines (fork: rivy)",
+            "description": "Emacs-like Modelines for Sublime Text 2 (fork: rivy)",
             "platforms": {
                 "*": [
                     {
                         "version": "",
-                        "url": "http://nodeload.github.com/rivy/ST2EmacsModelines/zipball/master"
+                        "url": "https://github.com/rivy/ST2EmacsModelines"
                     }
                 ]
             }
