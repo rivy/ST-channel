@@ -2,11 +2,12 @@
     "schema_version": "1.2",
     "packages": [
         {
-            "name": "MY Emacs-like Modelines (fork: rivy)",
-            "description": "Keyboard shortcuts and menu entries to...",
+            "name": "Emacs-like Modelines (fork: rivy)",
+            "description": "DESC - Emacs-like Modelines (fork: rivy)",
             "platforms": {
                 "*": [
                     {
+                        "version": "",
                         "url": "http://nodeload.github.com/rivy/ST2EmacsModelines/zipball/master"
                     }
                 ]
