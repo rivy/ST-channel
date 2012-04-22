@@ -1,0 +1,15 @@
+{
+    "schema_version": "1.2",
+    "packages": [
+        {
+            "name": "Emacs-like Modelines (fork: rivy)",
+            "platforms": {
+                "*": [
+                    {
+                        "url": "http://github.com/rivy/ST2EmacsModelines/zipball/master"
+                    }
+                ]
+            }
+        }
+    ]
+}
