@@ -9,7 +9,7 @@
             "platforms": {
                 "*": [
                     {
-                        "version": "1.1",
+                        "#version": "1.1",
                         "url": "http://nodeload.github.com/rivy/ST2.pack.EmacsModelines/zipball/master"
                     }
                 ]
