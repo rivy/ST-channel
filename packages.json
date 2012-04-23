@@ -2,14 +2,27 @@
     "schema_version": "1.2",
     "packages": [
         {
+            "name": "Package Control (rivy)",
+            "description": "Package Manager for Sublime Text (fork: rivy)",
+            "author": "Will Bond (wbond) & Roy Ivy III (rivy)",
+            "homepage": "http://wbond.net/sublime_packages/package_control",
+            "platforms": {
+                "*": [
+                    {
+                        "url": "https://github.com/rivy/ST2.pack.PackageControl"
+                    }
+                ]
+            }
+        }
+        {
             "name": "Emacs-like Modelines (rivy)",
             "description": "Emacs-like Modelines for Sublime Text 2 (fork: rivy)",
-            "author": "Roy Ivy III (rivy)",
+            "author": "Kenneth Vestergaard (kvs) & Roy Ivy III (rivy)",
             "homepage": "https://github.com/rivy/ST2.pack.EmacsModelines",
             "platforms": {
                 "*": [
                     {
-                        "version": "1.2.3",
+                        "#version": "1.0",
                         "url": "https://github.com/rivy/ST2.pack.EmacsModelines"
                     }
                 ]
