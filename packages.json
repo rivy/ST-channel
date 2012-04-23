@@ -9,6 +9,7 @@
             "platforms": {
                 "*": [
                     {
+                        "version": "1.2.3",
                         "url": "https://github.com/rivy/ST2.pack.EmacsModelines"
                     }
                 ]
