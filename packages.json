@@ -13,7 +13,7 @@
                     }
                 ]
             }
-        }
+        },
         {
             "name": "Emacs-like Modelines (rivy)",
             "description": "Emacs-like Modelines for Sublime Text 2 (fork: rivy)",
