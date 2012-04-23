@@ -2,9 +2,18 @@
     "schema_version": "1.2",
     "packages": [
         {
-            "url": "https://guthub.com/rivy/ST2.pack.EmacsModelines",
             "name": "Emacs-like Modelines (rivy)",
-            "description": "Emacs-like Modelines for Sublime Text 2 (fork: rivy)"
+            "description": "Emacs-like Modelines for Sublime Text 2 (fork: rivy)",
+            "author": "Roy Ivy III (rivy)",
+            "homepage": "https://github.com/rivy/ST2.pack.EmacsModelines",
+            "platforms": {
+                "*": [
+                    {
+                        "#version": "1.1",
+                        "url": "http://nodeload.github.com/rivy/ST2.pack.EmacsModelines/zipball/master"
+                    }
+                ]
+            }
         }
     ]
 }
