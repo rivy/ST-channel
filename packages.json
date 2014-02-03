@@ -1,15 +1,16 @@
 {
 	"schema_version": "2.0",
-	"packages": [
+	"packages":
+	[
 		{
-			"name": "Emacs-like Modelines (rivy)",
+			"name": "EmacsModelines (rivy)",
 			"description": "Emacs-like Modelines for Sublime Text 2 (fork: rivy)",
 			"author": "Kenneth Vestergaard (kvs) & Roy Ivy III (rivy)",
-			"details": "https://github.com/wbond/sublime_alignment",
-			"releases": [
+			"details": "https://github.com/rivy/ST-package-EmacsModelines",
+			"releases":
+			[
 				{
-					"sublime_text": "*",
-					"details": "https://github.com/wbond/sublime_alignment/tags"
+				"sublime_text": "*"
 				}
 			]
 		}
