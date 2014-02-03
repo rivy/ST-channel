@@ -1,0 +1,8 @@
+{
+	"x-comment": "// CTRL-SHIFT-P (or Tools / Command Palette...) / Package Control: Add Channel / 'https://raw.github.com/rivy/ST-channel-Packages/master/channel.json'",
+	"schema_version": "2.0",
+	"repositories":
+	[
+		"https://raw.github.com/rivy/ST-channel-Packages/master/packages.json"
+	]
+}
