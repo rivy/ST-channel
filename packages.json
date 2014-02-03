@@ -9,9 +9,21 @@
 			"releases":
 			[
 				{
-					"sublime_text": "*"
+					"sublime_text": "*",
+					"details": "https://github.com/rivy/ST-package-EmacsModelines",
 				}
 			]
-		}
+		},
+		{
+			"name": "SweylaColorThemeGenerator",
+			"details": "https://github.com/rivy/ST-package-SweylaColorThemeGenerator",
+			"releases":
+			[
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/rivy/ST-package-SweylaColorThemeGenerator",
+				}
+			]
+		},
 	]
 }
