@@ -1,32 +1,21 @@
 {
-    "schema_version": "1.2",
+    "schema_version": "2.0",
     "packages": [
         {
-            "name": "Package Control (rivy)",
-            "description": "Package Manager for Sublime Text (fork: rivy)",
-            "author": "Will Bond (wbond) & Roy Ivy III (rivy)",
-            "homepage": "https://github.com/rivy/ST2.pack.PackageControl",
-            "platforms": {
-                "*": [
-                    {
-                        "url": "https://github.com/rivy/ST2.pack.PackageControl"
-                    }
-                ]
-            }
+			"name": "Package Control (rivy)",
+			"description": "Package Manager for Sublime Text (fork: rivy)",
+			"author": "Will Bond (wbond) & Roy Ivy III (rivy)",
+			"details": "https://github.com/rivy/ST-package-PackageControl",
         },
         {
-            "name": "Emacs-like Modelines (rivy)",
-            "description": "Emacs-like Modelines for Sublime Text 2 (fork: rivy)",
-            "author": "Kenneth Vestergaard (kvs) & Roy Ivy III (rivy)",
-            "homepage": "https://github.com/rivy/ST2.pack.EmacsModelines",
-            "platforms": {
-                "*": [
-                    {
-                        "#version": "1.0",
-                        "url": "https://github.com/rivy/ST2.pack.EmacsModelines"
-                    }
-                ]
-            }
-        }
+			"name": "Emacs-like Modelines (rivy)",
+			"description": "Emacs-like Modelines for Sublime Text 2 (fork: rivy)",
+			"author": "Kenneth Vestergaard (kvs) & Roy Ivy III (rivy)",
+			"details": "https://github.com/rivy/ST-package-EmacsModelines",
+        },
+        {
+			"name": "Sweyla Color Scheme Generator (rivy)",
+			"details": "https://github.com/rivy/ST-package-SweylaColorSchemeGenerator",
+        },
     ]
 }
