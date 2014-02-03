@@ -5,7 +5,7 @@
 			"name": "Package Control (rivy)",
 			"description": "Package Manager for Sublime Text (fork: rivy)",
 			"author": "Will Bond (wbond) & Roy Ivy III (rivy)",
-			"details": "https://github.com/rivy/ST-package-PackageControl",
+			"details": "https://github.com/rivy/ST-package-PackageControl"
         }
     ]
 }
