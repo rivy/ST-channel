@@ -5,7 +5,17 @@
 			"name": "Package Control (rivy)",
 			"description": "Package Manager for Sublime Text (fork: rivy)",
 			"author": "Will Bond (wbond) & Roy Ivy III (rivy)",
-			"details": "https://github.com/rivy/ST-package-PackageControl"
-        }
+			"details": "https://github.com/rivy/ST-package-PackageControl",
+        },
+        {
+			"name": "Emacs-like Modelines (rivy)",
+			"description": "Emacs-like Modelines for Sublime Text 2 (fork: rivy)",
+			"author": "Kenneth Vestergaard (kvs) & Roy Ivy III (rivy)",
+			"details": "https://github.com/rivy/ST-package-EmacsModelines",
+        },
+        {
+			"name": "Sweyla Color Scheme Generator (rivy)",
+			"details": "https://github.com/rivy/ST-package-SweylaColorSchemeGenerator",
+        },
     ]
 }
