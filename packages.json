@@ -1,11 +1,17 @@
 {
-    "schema_version": "2.0",
-    "packages": [
-        {
-			"details": "https://github.com/rivy/ST-package-EmacsModelines"
-        },
-        {
-			"details": "https://github.com/rivy/ST-package-SweylaColorSchemeGenerator"
-        }
-    ]
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "AlignmentRIVY",
+			"description": "Easy alignment of multiple selections and multi-line selections",
+			"author": "Will Bond (wbond)",
+			"homepage": "http://wbond.net/sublime_packages/alignment",
+			"details": "https://github.com/wbond/sublime_alignment",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/wbond/sublime_alignment/tags"
+				}
+			]
+		}
 }
