@@ -6,6 +6,10 @@
 			"description": "Emacs-like Modelines for Sublime Text 2 (fork: rivy)",
 			"author": "Kenneth Vestergaard (kvs) & Roy Ivy III (rivy)",
 			"details": "https://github.com/rivy/ST-package-EmacsModelines"
+        },
+        {
+			"name": "Sweyla Color Scheme Generator (rivy)",
+			"details": "https://github.com/rivy/ST-package-SweylaColorSchemeGenerator"
         }
     ]
 }
