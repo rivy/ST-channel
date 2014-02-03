@@ -10,7 +10,7 @@
 			[
 				{
 					"sublime_text": "*",
-					"details": "https://github.com/rivy/ST-package-EmacsModelines",
+					"details": "https://github.com/rivy/ST-package-EmacsModelines"
 				}
 			]
 		},
@@ -21,9 +21,9 @@
 			[
 				{
 					"sublime_text": "*",
-					"details": "https://github.com/rivy/ST-package-SweylaColorThemeGenerator",
+					"details": "https://github.com/rivy/ST-package-SweylaColorThemeGenerator"
 				}
 			]
-		},
+		}
 	]
 }
