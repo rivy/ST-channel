@@ -5,12 +5,11 @@
 		{
 			"name": "EmacsModelines (rivy)",
 			"author": "Kenneth Vestergaard (kvs) & Roy Ivy III (rivy)",
-			"x-details": "https://github.com/rivy/ST-package-EmacsModelines",
+			"details": "https://github.com/rivy/ST-package-EmacsModelines",
 			"releases":
 			[
 				{
-					"sublime_text": "*",
-					"details": "https://github.com/rivy/ST-package-EmacsModelines"
+					"sublime_text": "*"
 				}
 			]
 		}
