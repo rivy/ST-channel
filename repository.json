@@ -14,17 +14,9 @@
 					"details": "https://github.com/rivy/ST-package-EmacsModelines"
 				}
 			]
-		},
-		{
-			"name": "Sweyla Color Theme Generator",
-			"details": "https://github.com/rivy/ST-package-SweylaColorThemeGenerator",
-			"releases":
-			[
-				{
-					"sublime_text": "<3000",
-					"details": "https://github.com/rivy/ST-package-SweylaColorThemeGenerator"
-				}
-			]
 		}
+	],
+	"includes": [
+		"https://raw.github.com/rivy/ST-package-SweylaColorThemeGenerator/master/package.json"
 	]
 }
