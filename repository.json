@@ -5,8 +5,8 @@
 	"packages":
 	[
 		{
-			"name": "Emacs Modelines (rivy*)",
-			"author": "Kenneth Vestergaard (kvs) & Roy Ivy III (rivy*)",
+			"name": "Emacs Modelines (rivy+)",
+			"author": "Kenneth Vestergaard (kvs) & Roy Ivy III (rivy+)",
 			"details": "https://github.com/rivy/ST-package-EmacsModelines",
 			"releases":
 				[
@@ -15,7 +15,20 @@
 					"details": "https://github.com/rivy/ST-package-EmacsModelines"
 				}
 			]
+		},
+		{
+			"name": "Modeline (rivy)",
+			"author": "Roy Ivy III (rivy)",
+			"details": "https://github.com/rivy/ST-package-Modeline",
+			"releases":
+				[
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/rivy/ST-package-Modeline"
+				}
+			]
 		}
+
 	],
 	"x-comment": "for usual modules with no information overrides, use a URL to a package.json within the package",
 	"includes": [
