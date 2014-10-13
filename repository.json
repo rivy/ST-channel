@@ -15,23 +15,11 @@
 					"details": "https://github.com/rivy/ST-package-EmacsModelines"
 				}
 			]
-		},
-		{
-			"name": "Modeline (rivy)",
-			"author": "Roy Ivy III (rivy)",
-			"details": "https://github.com/rivy/ST-package-Modeline",
-			"releases":
-			[
-				{
-					"sublime_text": "*",
-					"details": "https://github.com/rivy/ST-package-Modeline"
-				}
-			]
 		}
-
 	],
 	"x-comment": "for usual modules with no information overrides, use a URL to a package.json within the package",
 	"includes": [
+		"https://raw.github.com/rivy/ST-package-Modeline/master/package.json",
 		"https://raw.github.com/rivy/ST-package-SweylaColorThemeGenerator/master/package.json"
 	]
 }
