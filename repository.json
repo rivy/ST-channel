@@ -5,8 +5,8 @@
 	"packages":
 	[
 		{
-			"name": "Emacs Modelines (rivy+)",
-			"author": "Kenneth Vestergaard (kvs) & Roy Ivy III (rivy+)",
+			"name": "Emacs Modelines (rivy)",
+			"author": "Kenneth Vestergaard (kvs) & Roy Ivy III (rivy)",
 			"details": "https://github.com/rivy/ST-package-EmacsModelines",
 			"releases":
 			[
