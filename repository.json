@@ -19,6 +19,7 @@
 	],
 	"x-comment": "for usual modules with no information overrides, use a URL to a package.json within the package",
 	"includes": [
+        "https://raw.github.com/rivy/ST-package-BatchFile/master/package.json",
 		"https://raw.github.com/rivy/ST-package-Modeline/master/package.json",
 		"https://raw.github.com/rivy/ST-package-SweylaColorThemeGenerator/master/package.json"
 	]
